@@ -1,1 +1,1 @@
-# vue-basic-template
+Vite + Vue + TypeScript + TailWindCSS + daisyUI
